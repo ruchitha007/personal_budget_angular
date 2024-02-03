@@ -1,7 +1,7 @@
 # steps
-1.Run below commands in terminal
-npm -install
-npm start
+Run below commands in terminal
+1. npm -install
+2. npm start
 
 
 
