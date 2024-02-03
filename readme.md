@@ -1,5 +1,7 @@
-# Info
+# steps
+1.Run below commands in terminal
+npm -install
+npm start
 
-The path to NGInx main folder:
-/usr/share/nginx/html
+
 
